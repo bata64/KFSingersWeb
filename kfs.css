@@ -14,24 +14,24 @@ A:link {
 A:visited{color:#0000ff; text-decoration:underline}
 A:hover {BORDER-TOP: #ffffff 1px solid; COLOR: #ffffff; BORDER-BOTTOM: #000080 1px solid; BACKGROUND-COLOR: #4169e1
 }
-BODY,TH,TD { font-family: "‚l‚r ‚oƒSƒVƒbƒN";
+BODY,TH,TD { font-family: "ï¼­ï¼³ ï¼°ã‚´ã‚·ãƒƒã‚¯";
              font-size: 11pt; }
 
 
-.menufont { font-family: "‚l‚r ‚oƒSƒVƒbƒN";
+.menufont { font-family: "ï¼­ï¼³ ï¼°ã‚´ã‚·ãƒƒã‚¯";
             font-size: 9pt;
           }
 
-.subfont { font-family: "‚l‚r ‚oƒSƒVƒbƒN";
+.subfont { font-family: "ï¼­ï¼³ ï¼°ã‚´ã‚·ãƒƒã‚¯";
            font-size: 10pt;
          }
 
-.section { font-family: "‚l‚r ‚oƒSƒVƒbƒN";
+.section { font-family: "ï¼­ï¼³ ï¼°ã‚´ã‚·ãƒƒã‚¯";
            font-size: 12pt;
            background:silver;
          }
 
-.subtitle { font-family: "‚l‚r ‚oƒSƒVƒbƒN";
+.subtitle { font-family: "ï¼­ï¼³ ï¼°ã‚´ã‚·ãƒƒã‚¯";
             font-size: 12pt;
             font-weight:bold;
          }

@@ -1,2 +1,2 @@
-User-Agent: *
-Disallow: /
+User-agent: *
+Sitemap: http://kfsingers.info/sitemap.xml
